@@ -78,9 +78,7 @@ print(txt)
 
 txt = "We are the so-called \"Vikings\" from the north."
 
-a = "Hello"
-b = "Jay"
-print(a+b)
+print(txt)
 
 
 
